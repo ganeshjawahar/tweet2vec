@@ -12,7 +12,7 @@ Download the [Glove](http://nlp.stanford.edu/data/glove.twitter.27B.zip) word ve
 To train our model,
 
 ```
-th train.lua
+th main.lua
 ```
 
 ### Dependencies
@@ -32,7 +32,7 @@ luarocks install <package-name>
 
 ### Options
 
-#### `th train.lua`
+#### `th main.lua`
 
 * `data_dir`: directory for accessing the user profile prediction data for an attribute (spouse or education or job) [data/spouse/]
 * `glove_dir`: directory for accesssing the pre-trained glove word embeddings [data/]
