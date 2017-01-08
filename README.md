@@ -11,9 +11,9 @@ Download the [Glove](http://nlp.stanford.edu/data/glove.twitter.27B.zip) word ve
 
 To train our model,
 
-'''
+```
 th train.lua
-'''
+```
 
 ### Dependencies
 * [Torch](http://torch.ch/)
@@ -28,6 +28,7 @@ th train.lua
 Packages (b) to (h) can be installed using:
 ```
 luarocks install <package-name>
+```
 
 ### Options
 
