@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/tweet2vec/](https://badges.gitter.im/abhshkdz/neural-vqa.svg)](https://gitter.im/tweet2vec/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-This repository contains the [Torch](http://torch.ch/) implementation of [ECIR 2017 work](https://arxiv.org/abs/1612.06062). 
+This repository contains the [Torch](http://torch.ch/) implementation of our [ECIR 2017 work](https://arxiv.org/abs/1612.06062). 
 
 ### Quick Start
 Download the user profile attribute dataset from [here](http://cs.stanford.edu/~bdlijiwei/ACL_profile_full_data.zip)
